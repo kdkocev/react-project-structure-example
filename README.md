@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Project Structure Example
+
+This project is created to serve as an example for a proper way to setup a React Project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
